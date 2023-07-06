@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="images/logo.PNG" alt="Logo" width="120" height="120">
+  <img src="images/logo.png" alt="Logo" width="120" height="120">
 </a>
 
 <h3 align="center">The Arca Programming Language</h3>
