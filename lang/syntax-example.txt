@@ -1,0 +1,13 @@
+using foo::bar;
+
+var name = "drh";
+
+println("Hello World!");
+
+fn bar() {
+    println("bar!");
+}
+
+if (foo) { 
+    bar();
+}
